@@ -4,22 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e90992bd-988d-4bfe-a3ae-b7fd33fdb5a0" name="Changes" comment="to heroku update5">
+    <list default="true" id="e90992bd-988d-4bfe-a3ae-b7fd33fdb5a0" name="Changes" comment="to heroku update6">
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Address.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Comment.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Company.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Geo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/HttpUtil$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/HttpUtil$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/HttpUtil$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/HttpUtil$4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/HttpUtil$5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/HttpUtil.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/JsonApiDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Post.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Todo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/User.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -116,7 +102,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658696376529</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="to heroku update6">
+      <created>1658696605809</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1658696605809</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -137,6 +130,7 @@
     <MESSAGE value="to heroku update3" />
     <MESSAGE value="to heroku update4" />
     <MESSAGE value="to heroku update5" />
-    <option name="LAST_COMMIT_MESSAGE" value="to heroku update5" />
+    <MESSAGE value="to heroku update6" />
+    <option name="LAST_COMMIT_MESSAGE" value="to heroku update6" />
   </component>
 </project>
