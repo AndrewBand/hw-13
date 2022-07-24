@@ -4,38 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e90992bd-988d-4bfe-a3ae-b7fd33fdb5a0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/google_code_gson.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Address.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Comment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Company.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Geo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/HttpUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/JsonApiDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Post.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Todo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Address.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Comment.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Company.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Geo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/HttpUtil$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/HttpUtil$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/HttpUtil$3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/HttpUtil$4.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/HttpUtil$5.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/HttpUtil.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/JsonApiDemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Post.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Todo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/User.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/user-2-post-20-comments.json" afterDir="false" />
+    <list default="true" id="e90992bd-988d-4bfe-a3ae-b7fd33fdb5a0" name="Changes" comment="hw-13">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,6 +44,7 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -96,6 +73,14 @@
       <option name="presentableId" value="Default" />
       <updated>1657912612634</updated>
     </task>
+    <task id="LOCAL-00001" summary="hw-13">
+      <created>1657915051789</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1657915051789</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -108,5 +93,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="hw-13" />
+    <option name="LAST_COMMIT_MESSAGE" value="hw-13" />
   </component>
 </project>
