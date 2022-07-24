@@ -12,7 +12,7 @@
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
-      <module name="hw-13" options="-parameters" />
+      <module name="hw-13" options="" />
     </option>
   </component>
 </project>
